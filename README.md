@@ -29,6 +29,7 @@ The rest of the classes just help the other various classes work. In summary, ad
 
 ------------------------------------------------------
 New classes since assignment 3 (for final project) are:
+
 -->ChuckNorisJokes - This gets random chuck norris jokes from the internet
 
 -->googleistrans - this is an alternate and the current implemented google translate api class
