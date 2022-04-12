@@ -29,11 +29,11 @@ The rest of the classes just help the other various classes work. In summary, ad
 
 ------------------------------------------------------
 New classes since assignment 3 (for final project) are:
--ChuckNorisJokes - This gets random chuck norris jokes from the internet
--googleistrans - this is an alternate and the current implemented google translate api class
--GoogleMaps - this finds the nearest phone repair place with the best rating
--GoogleSearch - This searches the web if the chatbot doesn't have an answer for you
--GoogleTranslate - this is the originally implemented google translate api class (monthly limit has been hit)
--SearchYoutube -This searches youtube for a relevant video explaining what to do if the chatbot doesn't have an answer for you
+->ChuckNorisJokes - This gets random chuck norris jokes from the internet
+->googleistrans - this is an alternate and the current implemented google translate api class
+->GoogleMaps - this finds the nearest phone repair place with the best rating
+->GoogleSearch - This searches the web if the chatbot doesn't have an answer for you
+->GoogleTranslate - this is the originally implemented google translate api class (monthly limit has been hit)
+->SearchYoutube -This searches youtube for a relevant video explaining what to do if the chatbot doesn't have an answer for you
 
 ** all these classes host the API's and the methods used to call and get usable information from them**
